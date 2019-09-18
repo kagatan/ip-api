@@ -1,0 +1,24 @@
+{
+  "name": "kagatan/ip-api",
+  "description": "Class for IP Geolocation API",
+  "type": "library",
+  "keywords": [
+    "ip",
+    "Geolocation",
+    "ip-api"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Kagatan",
+      "email": "stupakovmax@gmail.com"
+    }
+  ],
+  "require": {
+  },
+  "autoload": {
+    "psr-4": {
+      "Kagatan\\IpApi\\": "src/"
+    }
+  }
+}
