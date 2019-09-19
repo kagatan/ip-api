@@ -1,4 +1,6 @@
-namespace namespace Kagatan\IpAPI;
+<?php
+
+namespace Kagatan\IpAPI;
 
 class IpAPI
 {
