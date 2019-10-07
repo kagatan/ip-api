@@ -1,6 +1,5 @@
 {
   "name": "kagatan/ip-api",
-  "version": "1.0.6",
   "description": "Class for IP Geolocation API",
   "type": "library",
   "keywords": [
