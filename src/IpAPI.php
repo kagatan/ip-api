@@ -6,7 +6,7 @@ class IpAPI
 {
     public static function info($ip)
     {
-        $url = 'http://ip-api.com/php/'.$ip.'?fields=message,country,countryCode,city,isp';
+        $url = 'http://ip-api.com/php/'.$ip.'?fields=message,country,countryCode,city,isp,timezone';
 
         //cURL HTTPS POST
         $ch = curl_init();
